@@ -225,18 +225,7 @@ This means the new website design performs better and may be deployed.
 
 ---
 
-# Skills Demonstrated
 
-This project demonstrates several important data science skills:
-
-- statistical hypothesis testing
-- experimental design
-- data analysis
-- statistical inference
-- experiment validation
-- data visualization
-
----
 
 # Future Improvements
 
